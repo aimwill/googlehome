@@ -1,0 +1,54 @@
+.button{
+	color: black;
+	background-color: #F0F0F0;
+	border: 1px solid #CCCCCC;
+	border-radius: 2px;
+}
+
+#logo {
+	text-align: center;
+	margin-top: 100px;
+	clear: right;
+}
+
+.searchbox {
+	display: block;
+	width: 50%;
+	margin: auto;
+}
+
+#signin {
+	font-family: Arial;
+	color: #FFFFFF;
+	background-color: #3369E8;
+	border-radius: 1px;
+}
+
+li {
+	float: right;
+	display: inline;
+	margin-right: 10px;
+}
+
+li a {
+	color: gray;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	padding: 5px;
+}
+
+.footer {
+	color: gray;
+	margin-bottom: 0px;
+}
+
+#leftfooter {
+	float: left;
+}
+
+#rightfooter {
+	float: right;
+}
